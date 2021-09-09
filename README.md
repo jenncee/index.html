@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jennjchen
 - 👀 I’m interested in UX/UI, Real Estate and VR
 - 🌱 I’m currently learning HTML,CSS and Javascript
-- 💞️ I’m looking to collaborate on designing a cool platform for people to view awesome products in 3D
+- 💞️ I’m looking to collaborate on designing and creating human-centric experiences
 - 📫 How to reach me @codesaavy on Twitter/Instagram
 
 <!---
