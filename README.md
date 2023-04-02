@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jennjchen
-- 👀 I’m interested in UX/UI, Real Estate and VR
+- 👀 I’m interested in building great stuff.
 - 🌱 I’m currently learning HTML,CSS and Javascript
-- 💞️ I’m looking to collaborate on designing and creating human-centric experiences
-- 📫 How to reach me @codesaavy on Twitter/Instagram
+- 💞️ I’m looking to collaborate on web/UX Design
 
 <!---
 jennjchen/jennjchen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
