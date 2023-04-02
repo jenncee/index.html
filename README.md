@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jennjchen
+- 👋 Hi, I’m Jennifer
 - 👀 I’m interested in building great stuff.
 - 🌱 I’m currently learning HTML,CSS and Javascript
 - 💞️ I’m looking to collaborate on web/UX Design
